@@ -1,0 +1,2 @@
+# sistemProgramlama
+metin birleştirme
