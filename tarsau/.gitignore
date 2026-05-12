@@ -1,0 +1,12 @@
+# Derlenmiş dosyalar
+obj/*.o
+bin/tarsau
+
+# Editör dosyaları
+*.swp
+*~
+.vscode/
+
+# Test çıktıları
+test/*.sau
+archive/*.sau
