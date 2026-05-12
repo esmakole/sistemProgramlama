@@ -1,0 +1,1 @@
+3. dosya: Linux terminalinde dosya okuma yazma testi.
