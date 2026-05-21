@@ -3,6 +3,7 @@
  * Basarili olursa dosya tanitici (fd) dondurur.
  * Hata durumunda -1 dondurur.
  */
+#include "tarsau.h"
 int fileio_open_read(const char *path)
 {
     int fd = open(path, O_RDONLY);
